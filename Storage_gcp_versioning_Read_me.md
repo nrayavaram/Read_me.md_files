@@ -1,5 +1,6 @@
 
 Sentinel file "google_check_mtu.sentinel" is having code to deploy the policies. In order to check the type of versioning is null or not null, We need to validate policy successfully.**
+
 This sentinel policies enforce usage of Number of versioned copies when versioning is enabled.
 These sentinel policies enforce Wells Fargo security principles
 Variables :
