@@ -10,15 +10,18 @@ messages: It is being used to hold the complete message of policies violation to
 
 *control statements: here we are looping and assigning the all the resourses into two parameters
 
-#### Parameters
-Name	Description
-address	The key inside of resource_changes section for particular GCP Resource in tfplan mock
-rc	The value of address key inside of resource_changes section for particular GCP Resource in tfplan mock
-condition: if condition is comparing the type of versioning is not a null it will generate appropriate message to show the users.
+   * Parameters
+     | Name	| Description |
+     |------|-------------|
+     | address |	The key inside of resource_changes section for particular GCP Resource in tfplan mock
+     | rc |	The value of address key inside of resource_changes section for particular GCP Resource in tfplan mock
+* condition: if condition is comparing the type of versioning is not a null it will generate appropriate message to show the users.
 
-#### Terraform version Terraform v1.0.7
+#### Terraform version 
+Terraform v1.0.7
 
-#### sentinel versions Sentinel v0.18.4
+#### sentinel versions 
+Sentinel v0.18.4
 
 modules to import:
 ------------------
