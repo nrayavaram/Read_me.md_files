@@ -130,6 +130,6 @@ Sentinel v0.18.4
 * import "generic-functions" as gen
 
 #### Testing a Policy
-     sentinel test <sentinel file>
+     sentinel test <sentinel file> 
 example : 
  $ sentinel test network_gcp_traffic_enforce.sentinel 
