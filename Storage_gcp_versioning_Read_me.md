@@ -18,7 +18,7 @@ messages: It is being used to hold the complete message of policies violation to
 * condition: if condition is comparing the type of versioning is not a null it will generate appropriate message to show the users.
 
 #### Terraform version 
-Terraform v1.0.7
+Terraform v1.0.7 
 
 #### sentinel versions 
 Sentinel v0.18.4
